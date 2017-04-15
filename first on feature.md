@@ -9,3 +9,5 @@ Another line of my feature.
 feature 1 again.
 
 feature 1 final.
+
+3
